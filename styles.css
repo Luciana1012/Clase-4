@@ -1,0 +1,54 @@
+
+p {
+    color: rgba(129, 62, 6, 0.247);
+    font-size: 22px; /*px de pixeles (unidad minima de una pantalla -celda minima. 16 px es lo mas standard. cambiar tamaño tipografía*/
+    font-family:  'Ma Shan Zheng', cursive;
+    border-left: 10 px;
+    padding: 15px 15px 25 px 25 px;;
+}
+
+
+#segunda-ley {
+    color:darkgreen;
+    font-size: 18px;
+    font-family:  'Ma Shan Zheng', cursive;
+}
+
+#desequilibrio {
+    color: brown;
+    font-family: fantasy;
+    font-size: 16 px;
+}
+
+.ley {
+    color: rgb(6, 105, 59);
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.nro-ley {
+    color: rgba(27, 68, 122, 0.685);
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 60 px;
+    margin: 100px;
+    padding: 40 px;
+    background-color: cyan;
+}
+
+.section-first {
+    background-color: blueviolet;
+}
+
+.section-second {
+    background-color: darkolivegreen;
+}
+
+.third-section {
+    background-color: darksalmon;
+}
+
+
